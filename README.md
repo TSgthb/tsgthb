@@ -1,12 +1,12 @@
-<h3 align="left">Hello!  I'm Tejveer (but, mostly Tej!)</h3>
+<h3 align="left">Hello!👋 I'm Tejveer (and, mostly Tej!)</h3>
 
 ###
 
-<p align="left">I am a data-enthusiast and an aspiring data analyst. Over the past few years, I have worked extensively with databases and optimizing them. Now, I love exploring and transforming dirty data inside them, analyzing it to discover hidden secrets and help make better informed decisions - all powered by coffee! 🤓<br><br>As a self-taught data analyst, I am constantly trying to polish my skills and learn something new. Check out my projects here.</p>
+<p align="justify">I am a data-enthusiast and an aspiring data analyst (and, love coffee too😃). Over the past few years, I have worked extensively with databases and optimizing them. Now, I love exploring and transforming dirty data inside them, analyzing it to discover hidden secrets and help make better informed decisions - all powered by coffee! 🤓<br><br>As a self-taught data analyst, I am constantly trying to polish my skills and learn something new. Check out my recent projects here to see what I have been upto.</p>
 
 ###
 
-<h4 align="left">Tools I work with:</h4>
+<h4 align="left">The tools I generally work with:</h4>
 
 ###
 
@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="60" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="60" alt="canva logo" />
 </div>
 
 ###
