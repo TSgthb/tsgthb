@@ -1,12 +1,23 @@
-<h3 align="left">Hello!👋 I'm Tejveer (and, mostly Tej!)</h3>
+![Header](https://github.com/TSgthb/tsgthb/blob/main/Add-ons/github-header-banner%20(3).png)
+
+<!---
+###
+
+<h3 align="left">I'm Tejveer (and, mostly Tej)</h3>
+
+--->
 
 ###
 
-<p align="justify">I am a data-enthusiast and an aspiring data analyst (and, love coffee too😃). Over the past few years, I have worked extensively with databases and optimizing them. Now, I love exploring and transforming dirty data inside them, analyzing it to discover hidden secrets and help make better informed decisions - all powered by coffee! 🤓<br><br>As a self-taught data analyst, I am constantly trying to polish my skills and learn something new. Check out my recent projects here to see what I have been upto.</p>
+<p align="justify">I am a <b>data-enthusiast</b> and an <b>aspiring data analyst.</b></p> 
+  
+<p align="justify">Over the past few years, I have worked extensively with databases and optimizing them. Now, I love exploring and transforming dirty data inside them, analyzing it to discover hidden secrets and help make better informed decisions - all powered by coffee! 🤓</p>
+
+<p align="justify">As a self-taught data analyst, I am constantly trying to polish my skills and learn something new. Check out my projects <a href="https://github.com/TSgthb?tab=repositories">here</a>.</p>
 
 ###
 
-<h4 align="left">The tools I generally work with:</h4>
+<h3 align="left">Tools I work with:</h4>
 
 ###
 
@@ -26,26 +37,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="60" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="60" alt="canva logo" />
 </div>
 
 ###
 
-<h4 align="left">Reach me at:</h4>
+<h3 align="left">Reach me on:</h4>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
